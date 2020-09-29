@@ -1,0 +1,2 @@
+# -backgrounds
+generate bgs
